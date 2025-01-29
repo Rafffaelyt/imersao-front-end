@@ -1,0 +1,10 @@
+:root {
+    /* Fonte */
+    --font-segoe-ui: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    /* COLORS */
+    --bg-icon: #131313;
+    --bg-arrow-color: rgba(0, 0, 0, 7);
+    --basic-color: #9c0000;
+    --text-base-light: #fff;
+}
